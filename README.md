@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ​<p align="center"><img src="https://im.19492035.xyz/file/1726973988787_wxgzh.jpg" width="300" /></p>
 
-<a name="微信"></a>  <a name="公众号"></a>
+
 
 <p align="center">
 
@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 微信搜索 **[zdDown]** ，第一时间阅读或者扫描下方的二维码。
 </p>
 
-<p align="center"><img src="https://im.19492035.xyz/file/1726492076858_gh_53873b9daeb7_258 (1).jpg" width="300" /><img src="images/0.jpg" width="300" /></p>
+<p align="center"><img src="https://im.19492035.xyz/file/1726492076858_gh_53873b9daeb7_258 (1).jpg" width="300" /></p>
 
 
