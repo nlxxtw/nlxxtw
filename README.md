@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋👋
+
 
 <!--
 **nlxxtw/nlxxtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +25,7 @@ Here are some ideas to get you started:
 
 
  
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=nlxxtw&theme=redical">
-</p>
+
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nlxxtw&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
