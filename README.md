@@ -15,30 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nlxxtw&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nlxxtw&theme=radical">
 </p>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-
-</p>
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 
-<p align="center">
-
-</p>
 
 
  
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=nlxxtw&theme=redical">
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nlxxtw&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 
@@ -46,65 +37,23 @@ Here are some ideas to get you started:
 
 
 
-<marquee><b><font color="#e66b6d">双</font>
-				<font color="#e66d98">手</font>
-				<font color="#e66cc6">合</font>
-				<font color="#cc6de6">十</font>
-				<font color="#9770e6">成</font>
-				<font color="#6d93e6">为</font>
-				<font color="#6fcde6">自</font>
-				<font color="#72e6b6">己</font>
-				<font color="#72e689">的</font>
-				<font color="#99e670">神</font>, 
-				<font color="#cde670">自</font>
-				<font color="#e6df72">己</font>
-				<font color="#e6c073">所</font>
-				<font color="#e6a271">信</font>
-				<font color="#e6796f">念</font>
-				<font color="#e65454">的</font>
-				<font color="#e63333">即</font>
-				<font color="#e62c2c">是</font>
-				<font color="#e60101">信</font>
-				<font color="#e60101">仰</font></b> 
-</marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
-  <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
-  <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
-  <a href="https://space.bilibili.com/63551025"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
-<a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599"><img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" alt="%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" /></a>
-  <a href="https://bbs.csdn.net/forums/moyu"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>
-<a href="https://github.com/wanghao221/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
-<a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
-</p>
-
-<p align="center"><font color="#e66cc6"><b>粉丝群内每位成员送本书，抽送各种小礼品</b></font></p>
-<p align="center"><font color="#F08080"><b>(搪瓷杯、抱枕、鼠标垫、马克杯等)</b></font></p>
-<p align="center"><a href="https://im.19492035.xyz/file/1726492076858_gh_53873b9daeb7_258 (1).jpg"><font color="#8470FF"><b><u>点此进入学习交流群或者扫码</u></b></font></a></p><a href="https://im.19492035.xyz/file/1726826409207_gh_fda3a187ac32_258 (3).jpg">
-</a><a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"></a>
- <p align="center"><a href="https://jq.qq.com/?_wv=1027&amp;k=SICM6psX"><font color="#03a9f4"><b><u>点此跳转QQ群</u></b></font></a></p>
-<p align="center">
-<a href="http://haiyong.site/">个人网站</a> | <a href="https://haiyong.blog.csdn.net/">CSDN</a> | <a href="https://juejin.cn/user/2040341402229751">掘金</a> | <a href="https://bbs.huaweicloud.com/community/usersnew/id_1628036118897599">华为云</a> | <a href="https://cloud.tencent.com/developer/user/8932508">腾讯云</a> 
-</p>
-<p align="center">
-<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D" alt="24f68488c86f4984889ee65cd392ce6a.png#pic_center%E2%80%9D" />
-</p>
-<p align="center"><a href="https://www.captainai.net/haiyong"><font color="#03a9f4"><b><u>人工智能学习</u></b></font></a></p>
-<p align="center"><a href="http://haiyong.site/choujiang"><font color="#F08080"><b><u>粉丝抽奖点这里，查看近期抽奖记录</u></b></font></a></p> 
 
 
 
 
 
 
-# 鸣谢
 
-****
 
-​<p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
+​<p align="center"><img src="https://im.19492035.xyz/file/1726973988787_wxgzh.jpg" width="300" /></p>
 
 <a name="微信"></a>  <a name="公众号"></a>
 
+<p align="center">
+
 
 微信搜索 **[zdDown]** ，第一时间阅读或者扫描下方的二维码。
+</p>
 
 <p align="center"><img src="https://im.19492035.xyz/file/1726492076858_gh_53873b9daeb7_258 (1).jpg" width="300" /><img src="images/0.jpg" width="300" /></p>
 
