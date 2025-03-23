@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<a href="https://github.com/nlxxtw">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nlxxtw&show_icons=true&include_all_commits=true" />
+</a>
 
 
  
