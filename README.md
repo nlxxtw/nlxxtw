@@ -55,5 +55,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"><img src="https://im.19492035.xyz/file/1726492076858_gh_53873b9daeb7_258 (1).jpg" width="300" /></p>
+<p align="center"><img src="https://im.19492035.xyz/file/1742651920554.jpg" width="300" /></p>
 
 
